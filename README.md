@@ -1,4 +1,10 @@
 ### Hi there 👋
+Take a look around!
+I'm A full-stack Developer excited about making cool stuff!
+I'm also a Happy, mindful, alcohol-free, vegan!
+I spoke on the TEDx stage about reducing single-use plastic.
+I photograph 👰🤵 weddings for amazing couples.
+🌱🌎 🚣 🚴 🏃 🐶 ☕️ ⛰
 
 <!--
 **keiththarp/keiththarp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
