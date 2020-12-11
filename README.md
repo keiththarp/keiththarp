@@ -3,7 +3,7 @@ I'm Keith (he, him, his)<br/>
 * I'm a full-stack Engineer excited about making cool stuff!
 * Happy, mindful, alcohol-free, vegan!
 * I spoke on the TEDx stage about reducing single-use plastic.
-* My dog is a Lagotto Romagnollo.
+* My dog is a Lagotto Romagnollo.<br/>
 🌱 🌎 🚣 🚴 🏃 🐶 ☕️ ⛰
 
 <!--
