@@ -1,6 +1,6 @@
 ### Hi there 👋
-Take a look around!<br/>
-* I'm A full-stack Developer excited about making cool stuff!
+I'm Keith (he, him, his)<br/>
+* I'm A full-stack Engineer excited about making cool stuff!
 * I'm also a Happy, mindful, alcohol-free, vegan!
 * I spoke on the TEDx stage about reducing single-use plastic.
 * I photograph 👰🤵 weddings for amazing couples.<br/>
