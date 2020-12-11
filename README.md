@@ -1,10 +1,10 @@
 ### Hi there 👋
 I'm Keith (he, him, his)<br/>
-* I'm A full-stack Engineer excited about making cool stuff!
-* I'm also a Happy, mindful, alcohol-free, vegan!
+* I'm a full-stack Engineer excited about making cool stuff!
+* Happy, mindful, alcohol-free, vegan!
 * I spoke on the TEDx stage about reducing single-use plastic.
-* I photograph 👰👰 👰🤵 🤵🤵 weddings for amazing couples.<br/>
-🌱🌎 🚣 🚴 🏃 🐶 ☕️ ⛰
+* My dog is a Lagotto Romagnollo.
+🌱 🌎 🚣 🚴 🏃 🐶 ☕️ ⛰
 
 <!--
 **keiththarp/keiththarp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
