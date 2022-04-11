@@ -7,9 +7,7 @@ I'm Keith (he, him, his) - 📫 &nbsp; KeithSTharp@gmail.com<br/>
 🌱 🌎 🚣 🚴 🏃 🐶 ☕️ ⛰
 
 # Currently working on:
-- **Ascent Sobriety 2.0** - A React-Native app aimed at helping folks in recovery. - *Personal group project*
-- **KnownPoint Technologies** - A React & Redux web app aimed at simplifying access for patients to their medical records. - *Internship*
-- **Health Tracker** - An Angular web app aimed at helping people find correlations between actions and symptoms. - *Mentor project* 
+- **Sobriety Tracker** for Team Recovery 4/2022 
 
 <!--
 **keiththarp/keiththarp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
